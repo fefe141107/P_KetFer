@@ -1,0 +1,12 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(188, 126, 230);
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: small= 24px;
+    background-color: rgb(196, 160, 229);
+}
+#imagem {
+    height: 45%;
+}
